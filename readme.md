@@ -57,11 +57,12 @@ Nota: La emulación es limitada, el debugger no tiene acceso a los periféricos 
 
 ## Referencia en línea lenguaje C
 
-Una referencia en línea de lenguaje C es [la parte de lenguaje C del sitio cppreference, versión en español][cppreference_c_es]. El compilador GCC soporta al menos C99 con algunas extensiones.
+Una referencia en línea de lenguaje C es [la parte de lenguaje C del sitio cppreference, versión en español][cppreference_c_es]. El compilador GCC soporta al menos C99 con algunas extensiones. Nota: No todo el sitio está actualmente traducido. Si hay algo que no encuentras puedes consultar [la versión en inglés][cppreference_c].
 
 [eiv23-tp1]: https://github.com/fmirandabonomi/eiv23-tp1
 [eiv23-tp2]: https://github.com/fmirandabonomi/eiv23-tp2
 [cppreference_c_es]: https://es.cppreference.com/w/c
+[cppreference_c]: https://en.cppreference.com/w/c
 [fig_suma]: suma.png
 [fig_sumatoria]: sumatoria.png
 [fig_posmax]: posicion_maximo.png
